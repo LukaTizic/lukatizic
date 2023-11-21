@@ -9,9 +9,12 @@
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,heroku,mysql,vscode,bash,redis,figma,)
 
-## 🏆 Github Status 
+## <h3 align='center'>🏆 Github Status </h3> 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lukatizic&theme=tokyonight" width="48%" align="center" >
 
+## 🌟
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lukatizic&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![github graph](https://github-readme-activity-graph.vercel.app/graph?username=lukatizic&theme=react-dark)
 
 
 
