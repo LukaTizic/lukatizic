@@ -7,7 +7,7 @@
 
 ## <h3 align='center'>My Skills - Technologies I use</h3>
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,heroku,mysql,vscode,bash,redis,figma,)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,heroku,mysql,vscode,bash,figma,)
 
 
 ## <h3 align='center'>🏆 Github Status </h3> 
