@@ -15,8 +15,9 @@
 
 
 ## <h1 align='center'>🌟</h1>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lukatizic&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=lukatizic&theme=react-dark)
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lukatizic&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="31%" align="left" >
+
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=lukatizic&theme=react-dark" width="65%" align="right" >
 
 
 
