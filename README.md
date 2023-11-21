@@ -6,8 +6,8 @@
 
 
 ## My Skills - Technologies I use
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,git,github,vercel,netlify)
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,heroku,mysql,vscode,bash,figma) 
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,jest,git,github,vercel,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,heroku,mysql,vscode,bash,redis,figma,)
 
 
 <!--
