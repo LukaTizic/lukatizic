@@ -1,4 +1,4 @@
-# Hi, I'm Luka Tizić! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# <h1 align='center'> Hi, I'm Luka Tizić! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"></h1>
 
 
 
@@ -12,7 +12,7 @@
 ## <h3 align='center'>🏆 Github Status </h3> 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=lukatizic&theme=tokyonight" width="48%" align="center" >
 
-## 🌟
+## <h1 align='center'>🌟</h1>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=lukatizic&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=lukatizic&theme=react-dark)
 
