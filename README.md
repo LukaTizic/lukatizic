@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi, I'm Luka Tizić! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
+
+
+📫 How to reach me: **[Linkedin](https://www.linkedin.com/in/luka-tizi%C4%87-529a1b240/)**
 
 <!--
 **LukaTizic/lukatizic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
