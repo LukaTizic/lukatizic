@@ -17,7 +17,7 @@
 ## <h1 align='center'>🌟</h1>
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=lukatizic&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="31%" align="left" >
 
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=lukatizic&theme=react-dark" width="65%" align="right" >
+<img  src="https://github-readme-activity-graph.vercel.app/graph?username=lukatizic&theme=react-dark" width="60%" align="right" >
 
 
 
