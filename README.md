@@ -6,7 +6,7 @@
 
 
 ## My Skills - Technologies I use
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,,git,github,vercel,netlify)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,git,github,vercel,netlify)
 
 <!--
 **LukaTizic/lukatizic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
