@@ -15,14 +15,20 @@
   </a>
   </div>
 
-   <hr/>
  
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=,javascript,html,css,react,nextjs,tailwind,mui,html,css,vscode,github" />
     <img src="https://skillicons.dev/icons?i=nodejs,typescript,express,mongodb,mysql" /><br>
 </div>
 
 <br/>
-<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
