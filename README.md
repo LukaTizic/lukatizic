@@ -5,14 +5,14 @@
 <h3 align="center">A passionate frontend developer from Serbia! </br> 🇷🇸 </h3>
 
 <div align="center"> 
+  <a href="https://semper.blue" target="_blank">
+    <img src="https://img.shields.io/badge/semper.blue-333333?style=for-the-badge&logo=web&logoColor=blue" />
+  </a>
   <a href="mailto:lukatizic7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/luka-tizi%C4%87-529a1b240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://semper.blue" target="_blank">
-    <img src="https://img.shields.io/badge/semper.blue-333333?style=for-the-badge&logo=web&logoColor=blue" />
   </a>
 </div>
 
