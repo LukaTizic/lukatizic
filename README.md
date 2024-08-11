@@ -11,11 +11,15 @@
   <a href="https://www.linkedin.com/in/luka-tizi%C4%87-529a1b240/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  </div>
-  
+  <a href="https://semper.blue" target="_blank">
+    <img src="https://img.shields.io/badge/semper.blue-333333?style=for-the-badge&logo=web&logoColor=blue" />
+  </a>
+</div>
+
 <h1 align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" height='200px' />
 </h1>
+
 
 <br/>
 
