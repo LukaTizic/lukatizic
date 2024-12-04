@@ -1,6 +1,11 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luka+Tizic!;" />
-</h1>
+<div align="center">
+    <a href="https://semper.blue" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20semper.blue-0078D4?style=for-the-badge&logo=link&logoColor=white" />
+    </a>
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luka+Tizic!;" />
+    </h1>
+</div>
 
 <h3 align="center">A passionate frontend developer from Serbia! </br> 🇷🇸 </h3>
 
